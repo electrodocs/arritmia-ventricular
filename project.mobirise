@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 130,
+    "uniqCompNum": 142,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png"
   },
@@ -3397,7 +3397,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>De los puntos V1 y V2 se obtienen las desviaciones septales. Son especialmente importantes para la observación del tabique interventricular. \n<div>Los puntos V3 y V4 representan las derivaciones anteriores de la pared anterior del ventrículo izquierdo.\n</div><div>Los puntos V5 y V6 corresponden a la pared lateral baja del ventrículo izquierdo. [1],[2],[3]</div><div>Aunque el electrocardiograma de 12 derivaciones muestra información vital del corazón, solo muestra unos pocos minutos de la actividad eléctrica del corazón. Este tiempo no suele ser suficiente para captar anomalías durante el tiempo en el que se realiza el examen. Además, en el examen el paciente se encuentra en reposo y en silencio. Esto hace que no se presenten ciertas anomalías que no aparecerán a menos de que el paciente realice actividades más demandantes para el corazón.\n</div><div>Debido a esto, se tiene como una práctica común el uso de un monitor Holter. Dicho dispositivo actúa con los mismos principios que un electrocardiograma al detectar las diferencias de potencial mediante electrodos; no obstante, sobresale por su portabilidad, permitiendo que se realice un monitoreo contínuo hasta de 48 horas. \n</div><div>La idea de dicho monitoreo es la de detectar qué actividades en la vida diaria del paciente producen anomalías cardíacas, como lo pueden ser las arritmias. Al término de su uso, el médico mira los registros de electrocardiograma guardados en el dispositivo. \n</div><div>Una desventaja es, sin embargo, que el monitor Holter no es capaz de medir las 12 derivaciones que se pueden medir con un ECG estándar. No obstante, y como se mencionó anteriormente; las 12 derivadas no son necesarias para detectar las arritmias. \n</div><div>Se suelen detectar solo dos o tres derivaciones. Comúnmente se conecta una derivación de las extremidades y una del pecho, como la derivación II (plano frontal) y la derivación V1 (plano horizontal). Si se llegara a usar una tercera, se pueden usar tanto una derivación V adicional, usualmente la V6, o una derivación en las extremidades; como la III. \n</div><div>Es importante mencionar, sin embargo, que las posiciones de los electrodos está ligeramente cambiada para permitir la libertad de movimiento del paciente. El paciente también debe poner de su parte y entender cómo cuidar y mantener el monitor Holter durante su uso y que actividades deben evitarse. Asimismo, es importante que el paciente tenga una noción de las actividades que realizó durante el día y para poder ligarlo a las anomalías en el electrocardiograma.  [4]\n</div><div>El costo de uno de estos equipos oscila entre 500 y 2800 dólares. Aunque no es tan caro como otros tratamientos; sería entendible que una cantidad considerable de entidades públicas carezcan de estos equipos. [5].\n</div><div>Como se mencionó anteriormente, era una práctica común que el médico, presencialmente y al final de periodo de examen, examine manualmente el Holter. Un estudio por encuestas en el año 2004, no obstante, indica que los pacientes sometidos a un monitoreo cardiaco prefieren una retroalimentación rápida por parte del médico [6] .Además, algunas enfermedades cardiacas tienen propiedades asintomáticos o intermitentesPor estas razones, en las últimas dos décadas se han estado realizado avances para optimizar dicho monitoreo; ya sea mediante monitoreo a larga distancia,wearables y otras propuestas para permitir un tratamiento a largo plazo. A continuación se presentarán algunos de dichos esfuerzos:</div><br><div>\n</div><div>En el año 2005, aún cuando los celulares y el internet no tenían la inmensa presencia que existe al día de hoy; grupos de investigación ya habían notado que era posible fusionar dispositivos Holter con teléfonos móviles para enviar para enviar información a los hospitales. Uno de estos grupos propuso una solución al Holter para poder realizar tratamientos a largo plazo y mantener cierto monitoreo.\n</div><div>Su sistema permitía que alguien sin ningún conocimiento técnico pudiese operarlo. Los electrodos podían ser fácilmente manipulados y reemplazados por los pacientes. Además, la detección de electrocardiograma contaba con un sistema de alarma que avisaba si el paciente se encontraba desmayado o era inconsciente de que estaba sufriendo una arritmia. El aparato principal [Figura 4] ,asimismo, guardaba y analizaba por sí solo los patrones de ECG, y los mandaba por un servidor de internet a personal capacitado del hospital o clínica con el que se estaba trabajando. \n</div><div>El servidor era sumamente versátil, pues permitía que, mediante una red privada permitía que, desde su misma casa, el paciente pueda comunicarse directamente con el cardiólogo; recibiendo mensajes, prescripciones de medicamentos y pudiendo realizar las preguntas correspondientes. [Figura 5]\n</div><div><br></div></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>De los puntos V1 y V2 se obtienen las desviaciones septales. Son especialmente importantes para la observación del tabique interventricular. \n<div>Los puntos V3 y V4 representan las derivaciones anteriores de la pared anterior del ventrículo izquierdo.\n</div><div>Los puntos V5 y V6 corresponden a la pared lateral baja del ventrículo izquierdo. [1],[2],[3]</div><div>Aunque el electrocardiograma de 12 derivaciones muestra información vital del corazón, solo muestra unos pocos minutos de la actividad eléctrica del corazón. Este tiempo no suele ser suficiente para captar anomalías durante el tiempo en el que se realiza el examen. Además, en el examen el paciente se encuentra en reposo y en silencio. Esto hace que no se presenten ciertas anomalías que no aparecerán a menos de que el paciente realice actividades más demandantes para el corazón.\n</div><div>Debido a esto, se tiene como una práctica común el uso de un monitor Holter. Dicho dispositivo actúa con los mismos principios que un electrocardiograma al detectar las diferencias de potencial mediante electrodos; no obstante, sobresale por su portabilidad, permitiendo que se realice un monitoreo contínuo hasta de 48 horas. \n</div><div>La idea de dicho monitoreo es la de detectar qué actividades en la vida diaria del paciente producen anomalías cardíacas, como lo pueden ser las arritmias. Al término de su uso, el médico mira los registros de electrocardiograma guardados en el dispositivo. \n</div><div>Una desventaja es, sin embargo, que el monitor Holter no es capaz de medir las 12 derivaciones que se pueden medir con un ECG estándar. No obstante, y como se mencionó anteriormente; las 12 derivadas no son necesarias para detectar las arritmias. \n</div><div>Se suelen detectar solo dos o tres derivaciones. Comúnmente se conecta una derivación de las extremidades y una del pecho, como la derivación II (plano frontal) y la derivación V1 (plano horizontal). Si se llegara a usar una tercera, se pueden usar tanto una derivación V adicional, usualmente la V6, o una derivación en las extremidades; como la III. \n</div><div>Es importante mencionar, sin embargo, que las posiciones de los electrodos está ligeramente cambiada para permitir la libertad de movimiento del paciente. El paciente también debe poner de su parte y entender cómo cuidar y mantener el monitor Holter durante su uso y que actividades deben evitarse. Asimismo, es importante que el paciente tenga una noción de las actividades que realizó durante el día y para poder ligarlo a las anomalías en el electrocardiograma.  [4]\n</div><div>El costo de uno de estos equipos oscila entre 500 y 2800 dólares. Aunque no es tan caro como otros tratamientos; sería entendible que una cantidad considerable de entidades públicas carezcan de estos equipos. [5].\n</div><div>Como se mencionó anteriormente, era una práctica común que el médico, presencialmente y al final de periodo de examen, examine manualmente el Holter. Un estudio por encuestas en el año 2004, no obstante, indica que los pacientes sometidos a un monitoreo cardiaco prefieren una retroalimentación rápida por parte del médico [6] .Además, algunas enfermedades cardiacas tienen propiedades asintomáticos o intermitentesPor estas razones, en las últimas dos décadas se han estado realizado avances para optimizar dicho monitoreo; ya sea mediante monitoreo a larga distancia,wearables y otras propuestas para permitir un tratamiento a largo plazo. A continuación se presentarán algunos de dichos esfuerzos:</div><br><div>\n</div><div>En el año 2005, aún cuando los celulares y el internet no tenían la inmensa presencia que existe al día de hoy; grupos de investigación ya habían notado que era posible fusionar dispositivos<b> Holter con teléfonos móviles</b> para enviar para enviar información a los hospitales. Uno de estos grupos propuso una solución al Holter para poder realizar tratamientos a largo plazo y mantener cierto monitoreo.\n</div><div>Su sistema permitía que alguien sin ningún conocimiento técnico pudiese operarlo. Los electrodos podían ser fácilmente manipulados y reemplazados por los pacientes. Además, la detección de electrocardiograma contaba con un sistema de alarma que avisaba si el paciente se encontraba desmayado o era inconsciente de que estaba sufriendo una arritmia. El aparato principal [Figura 4] ,asimismo, guardaba y analizaba por sí solo los patrones de ECG, y los mandaba por un servidor de internet a personal capacitado del hospital o clínica con el que se estaba trabajando. \n</div><div>El servidor era sumamente versátil, pues permitía que, mediante una red privada permitía que, desde su misma casa, el paciente pueda comunicarse directamente con el cardiólogo; recibiendo mensajes, prescripciones de medicamentos y pudiendo realizar las preguntas correspondientes. [Figura 5]\n</div><div><br></div></div>\n    </div>\n</section>",
           "_cid": "rBUWG5g16o",
           "_anchor": "content4-38",
           "_protectedParams": [],
@@ -3457,7 +3457,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>El sistema era compacto, solo usando una sola derivación con dos electrodos (V2-V3). Los electrodos no estaban conectados por ningún cable, sino que usaban transmisión inalámbrica y la batería duraba para varios días. Su objetivo principal era de funcionar como una alternativa al Holter, pero específicamente para la detección de arritmias (Debido al uso de una sola derivación, otras enfermedades no pueden ser detectadas). [7].\n</div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Los electrodos usados se pegaban con un hidrogel, existiendo el riesgo de causar incomodidades en la piel. Estos sensores usan una transmisión de radio RF, para mandar muestras continuas de electrocardiograma. El receptor convierte estas muestras usando un microcontrolador.<br><br>El sistema era compacto, solo usando una sola derivación con dos electrodos (V2-V3). Los electrodos no estaban conectados por ningún cable, sino que usaban transmisión inalámbrica y la batería duraba para varios días. Su objetivo principal era de funcionar como una alternativa al Holter, pero específicamente para la detección de arritmias (Debido al uso de una sola derivación, otras enfermedades no pueden ser detectadas). [7].<br><br>El sistema fue utilizado al año siguiente para pruebas clínicas, sus resultados no se encuentran disponibles pero se hace mención a la confianza de los diseñadores en la efectividad de su producto.\n</div>\n    </div>\n</section>",
           "_cid": "rBUWIuKU0d",
           "_anchor": "content4-3a",
           "_protectedParams": [],
@@ -3517,7 +3517,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>En el año 2009 un equipo en Korea pensó en diseñar una prenda basada en electrodos P-FCB (Planar Fashionable Circuit Boards).Estos últimos se basan en una placa de circuito plano implementado en un parche de tela. [Figura 6]. A diferencia de los llamados electrodos húmedos de Ag/AgCl, los cuales muestran una degradación en la señal con el tiempo y posibles problemas toxicológicos (como la generación de dermatitis); los electrodos de tela son secos.<div>Dicha prenda tiene por característica de tener un bajo consumo y los electrodos ya se encuentran pegada a de tal forma que estén en contacto directo con la piel.\t. Usando una pila AA, la prenda puede seguir tomando registro del voltaje hasta por 14 días sin tener que cambiarse. &nbsp;\n</div></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>En el año 2009 un equipo en Korea pensó en diseñar una prenda basada en electrodos<b> P-FCB</b> (Planar Fashionable Circuit Boards).Estos últimos se basan en una placa de circuito plano implementado en un parche de tela. [Figura 6]. A diferencia de los llamados electrodos húmedos de Ag/AgCl, los cuales muestran una degradación en la señal con el tiempo y posibles problemas toxicológicos (como la generación de dermatitis); los electrodos de tela son secos.<div>Dicha prenda tiene por característica de tener un bajo consumo y los electrodos ya se encuentran pegada a de tal forma que estén en contacto directo con la piel.\t. Usando una pila AA, la prenda puede seguir tomando registro del voltaje hasta por 14 días sin tener que cambiarse. &nbsp;\n</div></div>\n    </div>\n</section>",
           "_cid": "rBUWPN9J55",
           "_anchor": "content4-3c",
           "_protectedParams": [],
@@ -3557,9 +3557,135 @@
             }
           },
           "_name": "image2",
-          "_customHTML": "<section class=\"image2\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"45\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/es6-255x162.png\" layout=\"responsive\" width=\"498.9814814814815\" height=\"317\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/es6-255x162.png\" alt=\"Mobirise\" title=\"\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>\n                    Figura 6.-&nbsp;</b> Posición de los electrodos vistos por encima de la prenda. </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"image2\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"45\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/es6-255x162.png\" layout=\"responsive\" width=\"498.9814814814815\" height=\"317\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/es6-255x162.png\" alt=\"Mobirise\" title=\"\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>\n                    Figura 6.-&nbsp;</b> Posición de los electrodos vistos por encima de la prenda.[8]</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rBUWRouge3",
           "_anchor": "image2-3d",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Gracias a los electrodos incorporados en la tela, el paciente puede moverse libremente mientras usa la prenda con comodidad.[8]\n<div>\n</div><div>En este dispositivo, los electrodos se encuentran conectados a un chip de monitoreo y este a otras características como un USB como se muestra en el diagrama de bloques:\n</div></div>\n    </div>\n</section>",
+          "_cid": "rBYpX4pogv",
+          "_anchor": "content4-3m",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background-color": "@bgColor",
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "width": "~\"@{videoSize}%\"",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "amp-img": {
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "margin": "0",
+              "padding": ".5rem 0",
+              "& when (@fullWidth)": {
+                "padding": ".5rem 15px"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/est-652x243.png\" layout=\"responsive\" width=\"732.4938271604939\" height=\"273\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/est-652x243.png\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>\n                    Figura 7.- </b>Diagrama de bloques.[15]</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rBYpZMG0t6",
+          "_anchor": "image2-3n",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Los electrodos PCFB están hechos de un chip que contiene un circuito plano y monitoriza el ECG. El chip se encuentra fijado gracias un compuesto de plata, polímero, solvente y ciclohexanona. Tiene propiedades conductoras, alta adhesividad  y mayor resistencia mecánica.\n<div>Estos electrodos secos, sin embargo, tienen como desventaja una mayor impedancia con respecto a los electrodos normales:\n</div><div><br></div></div>\n    </div>\n</section>",
+          "_cid": "rBYr99fmu5",
+          "_anchor": "content4-3p",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background-color": "@bgColor",
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "width": "~\"@{videoSize}%\"",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "amp-img": {
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "margin": "0",
+              "padding": ".5rem 0",
+              "& when (@fullWidth)": {
+                "padding": ".5rem 15px"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"44\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/est1-344x247.png\" layout=\"responsive\" width=\"488.8421052631579\" height=\"351\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/est1-344x247.png\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>\n                    Figura 8.- </b>Electrodos PCFB.[15]</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rBYr5y7P5Q",
+          "_anchor": "image2-3o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -3577,9 +3703,194 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Gracias a los electrodos incorporados en la tela, el paciente puede moverse libremente mientras usa la prenda con comodidad.[8]<br><br>Métodos como el uso de tela fueron validados incluso hasta el año pasado [9]. Un estudio finalizado este año usó electrodos más avanzados basados en seda cubiertos de polímeros conductores. Estos electrodos se caracterizan por su conductividad eléctrica, flexibilidad y por ser hidrofílicos. Dichas características permiten que se adapten a la superficie de la piel; lo cual mejoró la estabilidad y calidad del electrocardiograma.\n<div>Para probarlos los electrodos fueron unidos a ropa deportiva [Figura 7]. La funcionalidad del electrodo permaneció incluso después de 50 lavadas y no irritó la piel. Se usó una sola derivación en V5, y probó su funcionalidad generando un monitoreo de EGC contínuo menos en situaciones donde se realizaron movimientos bruscos el tronco superior del cuerpo. \n</div><div><br></div></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Como se mencionó anteriormente, los electrodos son electrodos secos para prevenir los problemas que ocurren con los electrodos húmedos convencionales como la dermatitis. El problema con los electrodos secos, sin embargo, es que la impedancia que tienen es mayor a la de lo electrodos convencionales de cloruro de plata:\n<div><br></div></div>\n    </div>\n</section>",
+          "_cid": "rBYraXr0aV",
+          "_anchor": "content4-3q",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background-color": "@bgColor",
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "width": "~\"@{videoSize}%\"",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "amp-img": {
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "margin": "0",
+              "padding": ".5rem 0",
+              "& when (@fullWidth)": {
+                "padding": ".5rem 15px"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/est2-615x415.png\" layout=\"responsive\" width=\"732.0722891566265\" height=\"494\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/est2-615x415.png\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>\n                    Figura 9.- </b>Gráfico de Impedancia vs Frecuencia de electrodos de PFCB y de cloruro de plata.[15]</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rBYsA10AVe",
+          "_anchor": "image2-3r",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Esta impedancia se hizo notable en las pruebas de medición comparativas frente a un electrocardiograma convencional realizado en los mismos puntos de comparación:\n</div>\n    </div>\n</section>",
+          "_cid": "rBYsKn8T9d",
+          "_anchor": "content4-3s",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background-color": "@bgColor",
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "width": "~\"@{videoSize}%\"",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "amp-img": {
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "margin": "0",
+              "padding": ".5rem 0",
+              "& when (@fullWidth)": {
+                "padding": ".5rem 15px"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/est3-653x283.png\" layout=\"responsive\" width=\"731.452296819788\" height=\"317\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/est3-653x283.png\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>\n                    Figura 10.- </b>Comparación de ECG con electrodos PFCB secos y electrodos húmedos.[15]</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rBYsNmya3J",
+          "_anchor": "image2-3t",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text><div>Como se puede apreciar; aunque las derivaciones obtenidas son visualmente similares; el ruido que tienen dichos electrodos secos es mucho mayor. No obstante, eso no impide que, con la derivación obtenida, sea suficiente para diagnosticar arritmias.</div><br><div>Métodos como el uso de tela fueron validados incluso hasta el año pasado [9]. Un estudio finalizado este año usó electrodos más avanzados basados en seda cubiertos de polímeros conductores. Estos electrodos se caracterizan por su conductividad eléctrica, flexibilidad y por ser hidrofílicos. Dichas características permiten que se adapten a la superficie de la piel; lo cual mejoró la estabilidad y calidad del electrocardiograma.</div><div><br></div>El electrodo en mención se conoce como <b>hitoe</b>, y fue diseñado en Japón. Están hechos de tela textil electroconductiva cubierta con un polímero PEDOT-PSS. Dichos electrodos tienen dimensiones tales que la distancia desde su centro hacia afuera sea de 20cm. Ambos se encuentran conectados a un lazo electroconductivo a partir de cables de plata y un terminal de EGC. Se buscó obtener la derivación I.\n<div>Aún si se está usando un electrodo textil, y a diferencia del intento anteriormente mencionado (PFCB), el Hitoe tiene mucho menos ruido y una menor impedancia a la de los electrodos convencionales (135±35 contra 219±17 kΩ). Los patrones de EKG en ambos eran muy similares, mostrando además que los electrodos hitoe no se saltearon ninguna palpitación y no tienen una cantidad considerable de ruido.</div></div>\n    </div>\n</section>",
           "_cid": "rBUWSQVpe2",
           "_anchor": "content4-3e",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background-color": "@bgColor",
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "width": "~\"@{videoSize}%\"",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "amp-img": {
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "margin": "0",
+              "padding": ".5rem 0",
+              "& when (@fullWidth)": {
+                "padding": ".5rem 15px"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image2",
+          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/est4-1241x695.png\" layout=\"responsive\" width=\"732.1007194244604\" height=\"410\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/est4-1241x695.png\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>\n                    Figura 11.- </b>Comparación de ECG con electrodos hitoe y con electrodos convencionales.[9]</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rBYuigEtzu",
+          "_anchor": "image2-3u",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "padding": "2rem 0"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text><div>Para probarlos los electrodos fueron unidos a ropa deportiva [Figura 7]. La funcionalidad del electrodo permaneció incluso después de 50 lavadas y no irritó la piel. Se usó una sola derivación en V5, y probó su funcionalidad generando un monitoreo de EGC contínuo menos en situaciones donde se realizaron movimientos bruscos el tronco superior del cuerpo.</div></div>\n    </div>\n</section>",
+          "_cid": "rBYukfgJaD",
+          "_anchor": "content4-3v",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -3639,11 +3950,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Los teléfonos celulares pueden ser un gran componente de asistencia. HeartToGo es una aplicación creada en el año 2010 para una investigación basada en smartphones para poder detectar enfermedades cardiacas en tiempo real. [Figura 8]</div>\n    </div>\n</section>",
           "_cid": "rBXQFc4p2O",
+          "_anchor": "content4-3j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-3j"
+          "_params": {}
         },
         {
           "alias": false,
@@ -3677,7 +3988,7 @@
             }
           },
           "_name": "image2",
-          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"46\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/es8-320x294.png\" layout=\"responsive\" width=\"732.5170068027212\" height=\"673\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/es8-320x294.png\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>\n                    Figura 8.-</b> [ Arriba: Captura de pantalla de la aplicación][Abajo: Electrodos y monitor inalambrico]\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"46\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/es8-320x294.png\" layout=\"responsive\" width=\"510.47619047619054\" height=\"469\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/es8-320x294.png\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>\n                    Figura 8.-</b> [ Arriba: Captura de pantalla de la aplicación][Abajo: Electrodos y monitor inalambrico][10]</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rBXQHgFNWG",
           "_anchor": "image2-3k",
           "_protectedParams": [],
@@ -3700,13 +4011,13 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Este dispositivo hace uso de un monitor de electrocardiograma inalámbrico y ligero (60g de peso con batería). Tiene una batería de duración moderada (60h). Además tiene un compartimiento para tarjetas SD; permitiendo que se hagan análisis sin conección (Como un holter tradicional). La conección se hace vía bluetooth y en tiempo real. La investigación tuvo como objetivo el medir la contracción ventricular prematura. [10]\n<div><br></div></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Este dispositivo hace uso de un monitor de electrocardiograma inalámbrico y ligero (60g de peso con batería). Tiene una batería de duración moderada (60h). Además tiene un compartimiento para tarjetas SD; permitiendo que se hagan análisis sin conección (Como un holter tradicional). La conección se hace vía bluetooth y en tiempo real. La investigación tuvo como objetivo el medir la contracción ventricular prematura. La detección de la arritmia se basa en la usa una base de datos MIT-BIH. Esto sirve para detectar arritmias que no se detectarían normalmente en personas usando un monitor convencional. A partir de dicha base de datos, se usó un algoritmo con un de detección QRS con una capacidad de predicción del 99.69%[10]\n<div><br></div></div>\n    </div>\n</section>",
           "_cid": "rBXQL7r978",
+          "_anchor": "content4-3l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-3l"
+          "_params": {}
         },
         {
           "alias": false,

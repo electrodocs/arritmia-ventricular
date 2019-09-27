@@ -4957,9 +4957,9 @@
             }
           },
           "_name": "features10",
-          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Medios a la Izquierda/Derecha\" name=\"flexDirection\" checked=\"\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-27-at-12.19.40-am-1048x762.jpeg\" layout=\"responsive\" width=\"523.7052631578947\" height=\"691\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-27-at-12.19.40-am-1048x762.jpeg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    ¿QUÉ PUEDE HACER LA OPTIMIZACIÓN MÓVIL PARA USTED?\n                </h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                   El dispositivo estará constituido por dos pulseras (muñequera de tenista) que contendrán cada una un electrodo, con lo cual se formará una derivada. Estos electrodos serán conectados através de dos cables que se encontrarán dentro de un par mangas delgadas acolchonadas. Para un mejor agarre estas mangas tendrán proximas al codo una pequeña faja con velcro para su ajuste.<br> Los cables mencionados anteriormente serán unidos y conectados al procesador de señales que estará dentro de una pequeña funda, la cual tendrá un parche que se podrá pegar a la piel sin dañarla.</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">LEER MÁS</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rDf1GuQ8m8",
-          "_anchor": "features10-4w",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Medios a la Izquierda/Derecha\" name=\"flexDirection\" checked=\"\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-26-at-11.43.08-pm-786x452.jpg\" layout=\"responsive\" width=\"523.4203539823009\" height=\"301\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-26-at-11.43.08-pm-786x452.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    ¿QUÉ PUEDE HACER LA OPTIMIZACIÓN MÓVIL PARA USTED?\n                </h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Buscamos presentar un diseño moderno y ergonómico; por ello, este artefacto no solo cumplirá su función principal de realizar una lectura de impulsos eléctricos, sino como una función alternativa, la pantalla digital mostrará la hora dándole un enfoque distinto como reloj.</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">LEER MÁS</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rDf4hDDYq6",
+          "_anchor": "features10-4x",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -4968,38 +4968,42 @@
         {
           "alias": false,
           "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            "& when not (@fullWidth)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            ".image-block": {
-              "margin": "auto",
-              "width": "~\"@{videoSize}%\"",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
               }
+            },
+            ".text-block": {
+              "margin": "auto"
             },
             "amp-img": {
               "text-align": "center"
             },
-            ".mbr-text": {
-              "margin": "0",
-              "padding": ".5rem 0",
-              "& when (@fullWidth)": {
-                "padding": ".5rem 15px"
+            "@media (min-width: 768px)": {
+              ".image-block when (@flexDirection)": {
+                "padding-left": "2rem"
+              },
+              ".image-block when not (@flexDirection)": {
+                "padding-right": "2rem"
               }
             },
             "@media (max-width: 767px)": {
               ".image-block": {
-                "width": "100% !important"
+                "padding-bottom": "1rem"
               }
+            },
+            ".btn when (@showButtons)": {
+              "margin": ".4rem 4px !important"
             }
           },
-          "_name": "image2",
-          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"40\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-27-at-12.29.36-am-888x646.jpeg\" layout=\"responsive\" width=\"444.1343283582089\" height=\"364\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-27-at-12.29.36-am-888x646.jpeg\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rDfgjQbhCS",
-          "_anchor": "image2-51",
+          "_name": "features10",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Medios a la Izquierda/Derecha\" name=\"flexDirection\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-26-at-11.43.45-pm-648x513.jpg\" layout=\"responsive\" width=\"524.2105263157895\" height=\"415\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-26-at-11.43.45-pm-648x513.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    ¿QUÉ PUEDE HACER LA OPTIMIZACIÓN MÓVIL PARA USTED?\n                </h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Mediante hilo conductor el reloj estará conectado con otra pulsera que se econtrará en la muñeca donde está ausente el reloj; de esta forma se podrá realizar la lectura en una derivada. Toda la información recopilada será enviada inalámbricamente a un teléfono móvil.</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">LEER MÁS</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rDf4qsHfA2",
+          "_anchor": "features10-4z",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -5068,9 +5072,9 @@
             }
           },
           "_name": "features10",
-          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Medios a la Izquierda/Derecha\" name=\"flexDirection\" checked=\"\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-26-at-11.43.08-pm-786x452.jpg\" layout=\"responsive\" width=\"523.4203539823009\" height=\"301\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-26-at-11.43.08-pm-786x452.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    ¿QUÉ PUEDE HACER LA OPTIMIZACIÓN MÓVIL PARA USTED?\n                </h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Buscamos presentar un diseño moderno y ergonómico; por ello, este artefacto no solo cumplirá su función principal de realizar una lectura de impulsos eléctricos, sino como una función alternativa, la pantalla digital mostrará la hora dándole un enfoque distinto como reloj.</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">LEER MÁS</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rDf4hDDYq6",
-          "_anchor": "features10-4x",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Medios a la Izquierda/Derecha\" name=\"flexDirection\" checked=\"\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-27-at-12.19.40-am-1048x762.jpeg\" layout=\"responsive\" width=\"523.7052631578947\" height=\"691\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-27-at-12.19.40-am-1048x762.jpeg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    ¿QUÉ PUEDE HACER LA OPTIMIZACIÓN MÓVIL PARA USTED?\n                </h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                   El dispositivo estará constituido por dos pulseras (muñequera de tenista) que contendrán cada una un electrodo, con lo cual se formará una derivada. Estos electrodos serán conectados através de dos cables que se encontrarán dentro de un par mangas delgadas acolchonadas. Para un mejor agarre estas mangas tendrán proximas al codo una pequeña faja con velcro para su ajuste.<br> Los cables mencionados anteriormente serán unidos y conectados al procesador de señales que estará dentro de una pequeña funda, la cual tendrá un parche que se podrá pegar a la piel sin dañarla.</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">LEER MÁS</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rDf1GuQ8m8",
+          "_anchor": "features10-4w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -5079,42 +5083,38 @@
         {
           "alias": false,
           "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            "& when (@flexDirection)": {
-              ".mbr-row": {
-                "-webkit-flex-direction": "row-reverse",
-                "flex-direction": "row-reverse"
-              }
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
             },
-            ".text-block": {
-              "margin": "auto"
+            ".image-block": {
+              "margin": "auto",
+              "width": "~\"@{videoSize}%\"",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
             },
             "amp-img": {
               "text-align": "center"
             },
-            "@media (min-width: 768px)": {
-              ".image-block when (@flexDirection)": {
-                "padding-left": "2rem"
-              },
-              ".image-block when not (@flexDirection)": {
-                "padding-right": "2rem"
+            ".mbr-text": {
+              "margin": "0",
+              "padding": ".5rem 0",
+              "& when (@fullWidth)": {
+                "padding": ".5rem 15px"
               }
             },
             "@media (max-width: 767px)": {
               ".image-block": {
-                "padding-bottom": "1rem"
+                "width": "100% !important"
               }
-            },
-            ".btn when (@showButtons)": {
-              "margin": ".4rem 4px !important"
             }
           },
-          "_name": "features10",
-          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Medios a la Izquierda/Derecha\" name=\"flexDirection\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-26-at-11.43.45-pm-648x513.jpg\" layout=\"responsive\" width=\"524.2105263157895\" height=\"415\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-26-at-11.43.45-pm-648x513.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    ¿QUÉ PUEDE HACER LA OPTIMIZACIÓN MÓVIL PARA USTED?\n                </h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Mediante hilo conductor el reloj estará conectado con otra pulsera que se econtrará en la muñeca donde está ausente el reloj; de esta forma se podrá realizar la lectura en una derivada. Toda la información recopilada será enviada inalámbricamente a un teléfono móvil.</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">LEER MÁS</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rDf4qsHfA2",
-          "_anchor": "features10-4z",
+          "_name": "image2",
+          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Ancho Completo\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Ancho\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"40\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Mostrar Leyenda\" name=\"showText\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-27-at-12.29.36-am-888x646.jpeg\" layout=\"responsive\" width=\"444.1343283582089\" height=\"364\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/whatsapp-image-2019-09-27-at-12.29.36-am-888x646.jpeg\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rDfgjQbhCS",
+          "_anchor": "image2-51",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
